@@ -3,6 +3,7 @@ pandas
 scikit-learn
 matplotlib
 spacy
+!python -m spacy download en_core_web_sm
 nltk
 gensim
 sklearn
