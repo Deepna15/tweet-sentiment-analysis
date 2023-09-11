@@ -3,7 +3,6 @@ pandas
 scikit-learn
 matplotlib
 spacy
-re
 nltk
 gensim
 sklearn
