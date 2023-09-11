@@ -2,8 +2,8 @@ numpy
 pandas
 scikit-learn
 matplotlib
-spacy
-!python -m spacy download en_core_web_sm
+spacy==3.5.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 nltk
 gensim
 sklearn
